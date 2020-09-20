@@ -1,5 +1,5 @@
 # SYSCEN-License
-a for Developer License
+for Developer License
 
 ## Systcen License version
 Systcen License has 4 version:
